@@ -3,3 +3,5 @@
 #Always used add and commit when you make changes to your programs
 
 #Remember to add commit messages
+
+#Information is power
